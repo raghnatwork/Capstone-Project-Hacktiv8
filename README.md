@@ -1,6 +1,6 @@
 # Capstone-Project-Hacktiv8
 
-
+Link Google Collab : https://colab.research.google.com/drive/1mo4ufOuOih_8Xb5DJkIPe0hAoFcD6chm?usp=sharing
 Klasifikasi Data Hepatitis
 
 **Latar Belakang**
